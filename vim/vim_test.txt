@@ -1,0 +1,14 @@
+ test
+
+js python and javascript
+
+a append
+i insert
+o open a line below
+
+a append
+A apend before line
+I insert before line
+O append a line above
+
+
